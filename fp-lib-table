@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Swadge_Parts")(type "KiCad")(uri "/Users/nicholasharman/Documents/Super-2025-Swadge-HW/Swadge-Parts/Swadge_Parts.pretty")(options "")(descr "Swadge Parts"))
+)
